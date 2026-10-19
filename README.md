@@ -9,7 +9,7 @@ This project takes a biologically detailed model of rat brain tissue, simulates 
 [▶ Watch the gameplay Excerpt](https://streamable.com/56mknq)
 ---
 
-## What "rat brain" means here
+## What "rat brain" means here 
 
 I've managed to synthesise a complete, synapse connectome of a whole rat brain frontal cortex. What *is* public for rat is the **Blue Brain Project's reconstruction of rat somatosensory cortex**: tens of thousands of morphologically detailed neurons and millions of synapses, distributed in SONATA format.
 
