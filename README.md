@@ -4,7 +4,7 @@
 
 This project takes a biologically detailed model of rat brain tissue, simulates it, and connects it to a game loop: the game's screen becomes spikes going in, and the circuit's spikes become controller inputs going out.
 
-<img src="https://i.ibb.co/ycwQNVQJ/image-12.webp" alt="Chucho" width="40" />
+<img src="https://i.ibb.co/ycwQNVQJ/image-12.webp" alt="Chucho" width="100" />
 
 
 ---
