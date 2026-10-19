@@ -6,7 +6,7 @@ This project takes a biologically detailed model of rat brain tissue, simulates 
 
 <img src="https://i.ibb.co/ycwQNVQJ/image-12.webp" alt="Chucho" width="100" />
 
-
+[▶ Watch the gameplay Excerpt](https://streamable.com/56mknq)
 ---
 
 ## What "rat brain" means here
