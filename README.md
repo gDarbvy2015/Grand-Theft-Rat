@@ -1,6 +1,6 @@
 # 🐀 RatBrain-GTA
 
-**A publicly available rat cortical circuit, wired into Grand Theft Auto.**
+**A rat cortical circuit, wired into Grand Theft Auto.**
 
 This project takes an open, biologically detailed model of rat brain tissue, simulates it, and connects it to a game loop: the game's screen becomes spikes going in, and the circuit's spikes become controller inputs going out.
 
