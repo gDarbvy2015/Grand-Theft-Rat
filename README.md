@@ -95,17 +95,6 @@ ratbrain-gta/
 - [ ] Benchmarks: how far can it drive before crashing?
 - [ ] Compare against a same-size random recurrent network (does the biology actually help?)
 
-## Limitations (please read)
-
-- Real-time simulation of the full detailed circuit is **not realistic** on consumer hardware; expect the reduced model or slowed-down game time.
-- The circuit has no body, no sleep, no goals. Any "behavior" comes from the readout and the encoding you give it.
-- Claims like "the rat brain learned to drive" need controls (see the random-network baseline above). Don't skip it.
-- This is a simulation of a published model, not a living animal or tissue. No animals were harmed, or involved.
-
-## Please play fair
-
-Use **single-player / offline mode only.** Automating inputs in GTA Online violates Rockstar's terms and can get your account banned. Script mods can also trigger anti-cheat. Respect the game's EULA and the data license of the circuit.
-
 ## References and credit
 
 - Markram et al., "Reconstruction and Simulation of Neocortical Microcircuitry," *Cell* (2015)
