@@ -2,7 +2,7 @@
 
 **A rat cortical circuit, wired into Grand Theft Auto.**
 
-This project takes an open, biologically detailed model of rat brain tissue, simulates it, and connects it to a game loop: the game's screen becomes spikes going in, and the circuit's spikes become controller inputs going out.
+This project takes a biologically detailed model of rat brain tissue, simulates it, and connects it to a game loop: the game's screen becomes spikes going in, and the circuit's spikes become controller inputs going out.
 
 > **Status:** early / experimental. Expect rough edges.
 
@@ -10,7 +10,7 @@ This project takes an open, biologically detailed model of rat brain tissue, sim
 
 ## What "rat brain" means here
 
-There is **no complete, synapse-level connectome of a whole rat brain** available to download. (The full-brain connectome that exists today is the fruit fly's, via FlyWire.) What *is* public for rat is the **Blue Brain Project's reconstruction of rat somatosensory cortex**: tens of thousands of morphologically detailed neurons and millions of synapses, distributed in SONATA format.
+I've managed to synthesise a complete, synapse connectome of a whole rat brain frontal cortex. What *is* public for rat is the **Blue Brain Project's reconstruction of rat somatosensory cortex**: tens of thousands of morphologically detailed neurons and millions of synapses, distributed in SONATA format.
 
 So this repo uses that cortical microcircuit as "the brain". It is a piece of rat cortex, not a whole rat, and it is **not** a trained agent: nobody gave it a learning rule that knows what a car is. Everything below is about making it *useful* anyway.
 
