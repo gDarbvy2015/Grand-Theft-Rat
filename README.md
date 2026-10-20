@@ -85,7 +85,7 @@ ratbrain-gta/
 └── scripts/           # check, reduce, record, train, play
 ```
 
-## Roadmap
+## Pragmatics 
 
 - [ ] Load and simulate the circuit headlessly
 - [ ] Reduced point-neuron version that runs in near real time
@@ -101,6 +101,13 @@ ratbrain-gta/
 - Blue Brain Project / Open Brain Institute (data and SONATA format)
 - Maass et al., liquid state machines; Jaeger, echo state networks (reservoir computing)
 - The fly-brain simulation work that inspired this approach
+
+## Exerpts of the Connectome Accumulation (also present in /images) 
+<img width="443" height="241" alt="image" src="https://github.com/user-attachments/assets/1239e144-52cf-440a-9630-a01e19d4e8f1" />
+<img width="379" height="202" alt="image" src="https://github.com/user-attachments/assets/a5083648-f8f2-46b1-9531-809d494cf5ef" />
+<img width="719" height="384" alt="image" src="https://github.com/user-attachments/assets/e15d20fc-9b15-4284-8389-6398fb20902b" />
+<img width="409" height="177" alt="image" src="https://github.com/user-attachments/assets/31a5a1ab-7a3c-4521-b0e5-df9bc7dedd1e" />
+
 
 ## License
 
