@@ -95,18 +95,20 @@ ratbrain-gta/
 - [ ] Benchmarks: how far can it drive before crashing?
 - [ ] Compare against a same-size random recurrent network (does the biology actually help?)
 
-## References and credit
-
-- Markram et al., "Reconstruction and Simulation of Neocortical Microcircuitry," *Cell* (2015)
-- Blue Brain Project / Open Brain Institute (data and SONATA format)
-- Maass et al., liquid state machines; Jaeger, echo state networks (reservoir computing)
-- The fly-brain simulation work that inspired this approach
 
 ## Excerpts of the Connectome Accumulation (also present in /images) 
 <img width="243" height="101" alt="image" src="https://github.com/user-attachments/assets/1239e144-52cf-440a-9630-a01e19d4e8f1" />
 <img width="179" height="102" alt="image" src="https://github.com/user-attachments/assets/a5083648-f8f2-46b1-9531-809d494cf5ef" />
 <img width="219" height="134" alt="image" src="https://github.com/user-attachments/assets/e15d20fc-9b15-4284-8389-6398fb20902b" />
 <img width="209" height="97" alt="image" src="https://github.com/user-attachments/assets/31a5a1ab-7a3c-4521-b0e5-df9bc7dedd1e" />
+
+
+## References and credit
+
+- Markram et al., "Reconstruction and Simulation of Neocortical Microcircuitry," *Cell* (2015)
+- Blue Brain Project / Open Brain Institute (data and SONATA format)
+- Maass et al., liquid state machines; Jaeger, echo state networks (reservoir computing)
+- The fly-brain simulation work that inspired this approach
 
 
 ## License
