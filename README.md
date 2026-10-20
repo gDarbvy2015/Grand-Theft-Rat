@@ -102,7 +102,7 @@ ratbrain-gta/
 - Maass et al., liquid state machines; Jaeger, echo state networks (reservoir computing)
 - The fly-brain simulation work that inspired this approach
 
-## Exerpts of the Connectome Accumulation (also present in /images) 
+## Excerpts of the Connectome Accumulation (also present in /images) 
 <img width="243" height="101" alt="image" src="https://github.com/user-attachments/assets/1239e144-52cf-440a-9630-a01e19d4e8f1" />
 <img width="179" height="102" alt="image" src="https://github.com/user-attachments/assets/a5083648-f8f2-46b1-9531-809d494cf5ef" />
 <img width="219" height="134" alt="image" src="https://github.com/user-attachments/assets/e15d20fc-9b15-4284-8389-6398fb20902b" />
