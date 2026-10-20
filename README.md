@@ -1,4 +1,4 @@
-# 🐀 RatBrain-GTA
+# 🐀 Rat Connectome Plays GTAV
 
 **A rat cortical circuit, wired into Grand Theft Auto.**
 
